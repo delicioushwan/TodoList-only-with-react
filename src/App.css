@@ -1,0 +1,49 @@
+.App {
+  margin : 10%;
+  height: 400px;
+  color : black;
+  width: 1200px;
+}
+#Nav {
+  float : left;
+  width : 30%;
+  height: 400px;
+}
+#Display {
+  float : right ;
+  width : 70%;
+  height: 400px;
+  color : white;
+  background-color : black;
+}
+#DisplayInput {
+  width : 60%;
+  margin : 20px;
+}
+#listinput{
+  margin-left: 20px;
+}
+#Search{
+  margin : 20px;
+}
+#listtext{
+  margin :20px;
+  text-align: center;
+}
+#listitems{
+  overflow-y: auto;
+  height: 250px;
+}
+#addbox{
+  margin-top : 10px;
+}
+#todotag{
+  text-align: center;
+}
+#entrylist{
+  overflow-y: auto;
+  height: 350px;
+}
+ul{
+  border-bottom : dotted gray
+}
